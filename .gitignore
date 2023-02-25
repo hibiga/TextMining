@@ -1,0 +1,13 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__
+venv
+Corpus_TextMinig_22_23
+CSC
+bdd.csv
+data.csv
+neg.csv
+negatif.csv
+positif.csv
+toponyms.txt
+Tout_mes_textes.txt
